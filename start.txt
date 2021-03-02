@@ -1,1 +1,5 @@
 Test Git Quickstart demo
+
+This line is a change change made by GitHub user 'terminalforlife', to
+demonstrate how modifications work (especially those taken from a PR) in a
+typical GitHub workflow.
